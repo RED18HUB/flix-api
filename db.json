@@ -1,0 +1,28 @@
+{
+    "videos": [
+      { "id": "1",
+      "categoria":"Frond End",
+      "nombre":"Variables",
+      "imagen":"https://images.app.goo.gl/wMVCzR3STLvEewrh9",
+      "video":"https://youtu.be/uUuLCwFFiAk?si=Dme7FZybLMxQADDm",
+      "descripcion":"hola mundo" },
+      { "id": "2",
+      "categoria":"Back End",
+      "nombre":"python",
+      "imagen":"https://images.app.goo.gl/wMVCzR3STLvEewrh9",
+      "video":"https://youtu.be/uUuLCwFFiAk?si=Dme7FZybLMxQADDm",
+      "descripcion":"hola mundo" },
+      { "id": "3",
+      "categoria":"Innovacion",
+      "nombre":"Hola",
+      "imagen":"https://images.app.goo.gl/wMVCzR3STLvEewrh9",
+      "video":"https://youtu.be/uUuLCwFFiAk?si=Dme7FZybLMxQADDm",
+      "descripcion":"hola mundo" }
+    ],
+    "categoria": [
+      { "id": "1","titulo":"Frond End"  },
+      { "id": "2", "titulo":"Back End" },
+      { "id": "3", "titulo":"Innovacion" }
+    ]
+   
+  }
